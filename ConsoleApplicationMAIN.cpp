@@ -16,7 +16,10 @@ using namespace std;
 int main()
 {
 	cout << "Hello World!\n";
+	int a = 234;
+    char f = '5';
 
+	 
 
 
 
