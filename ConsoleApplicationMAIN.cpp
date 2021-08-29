@@ -15,11 +15,11 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World!\n";
+
 	int a = 434;
 	 
-
-
+	double d = 4345.6454;
+	  
 
 	system("pause");
 }
